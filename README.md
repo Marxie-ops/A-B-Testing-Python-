@@ -2,12 +2,19 @@
 This project demonstrates an A/B test conducted to determine whether a change in the experimental group had a statistically significant effect on click-through rates (CTR) compared to a control group.
 
 ## **Table of Contents**
+
 **Project Overview**
+
 **Hypothesis**
+
 **Significance Level (Alpha)**
+
 **Steps to Calculate Critical Values and P-Values**
+
 **Parameters from Power Analysis**
+
 **Test Results**
+
 **Conclusion**
 
 ## **Project Overview**
